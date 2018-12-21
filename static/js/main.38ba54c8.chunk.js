@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(n,e,t){n.exports=t(9)},9:function(n,e,t){"use strict";t.r(e);var o=t(0),r=t.n(o),a=t(2),c=function(){return r.a.createElement("div",null,"Tal Ben Shoam")};t.n(a).a.render(r.a.createElement(c,null),document.getElementById("root"))}},[[3,2,1]]]);
+//# sourceMappingURL=main.38ba54c8.chunk.js.map
